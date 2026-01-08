@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **✨ Interesting Mern Stack Projects**
 
-- 🤝 I’m looking for help with **🚀 Scaling and improving my Modern News Website project**
+- 🤝 I’m looking for help with **🚀Task Tracker Applications**
 
 - 📫 How to reach me **sarkaraadi21@gmail.com**
 
