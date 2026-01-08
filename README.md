@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditya Sarkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding boy" width="400" src="https://cdn-icons-png.flaticon.com/512/921/921071.png" />
 
 
-- 🔭 I’m currently working on **➡️ Modern News Website**
+- 🔭 I’m currently working on **➡️ *Mern Stack Project*
 
-- 🌱 I’m currently learning **📚 React.js, Next.js, GSAP Animations**
+- 🌱 I’m currently learning **📚 React.js,Express,Node.js,MongoDB,SQL, GSAP Animations**
 
-- 👯 I’m looking to collaborate on **✨ Interesting Frontend Projects**
+- 👯 I’m looking to collaborate on **✨ Interesting Mern Stack Projects**
 
 - 🤝 I’m looking for help with **🚀 Scaling and improving my Modern News Website project**
 
